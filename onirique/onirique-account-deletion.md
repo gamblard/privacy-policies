@@ -1,4 +1,4 @@
-Onirique
+# Onirique
 
 In order to delete your Onirique account, please send an email to contact@onirique.fr
 
